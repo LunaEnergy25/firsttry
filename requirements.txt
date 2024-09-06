@@ -1,0 +1,7 @@
+Flask
+openai
+requests
+beautifulsoup4
+Claude
+Shovels.ai
+Googlemaps.api
